@@ -22,5 +22,5 @@ elif marks > 40 < 44:
     print("Grade D")
 elif marks > 0 < 39:
     print("Grade D-")
- else:print("error")
+else:print("error")
 
